@@ -1,0 +1,16 @@
+A local research team has discovered a form of nanostructure that has potential for later applications in cancer treatment.
+
+A joint research team of Yonsei University College of Medicine and Ewha Womans University assembled a phthalocyanine photosensitizer (PcS) with an anticancer drug mitoxantrone (MA) to form uniform nanostructures (PcS-MA). 
+
+When the nanostructures were injected into a laboratory rat with breast cancer, more than 80 percent of the cancer cells were destroyed, the team said Monday.
+
+
+Cancer cells (FreeQration)
+
+According to the research published on ACS Nano, a journal run by the American Chemical Society, the team sees PcS-MA nanostructures as "an attractive strategy for overcoming the limitations of photodynamic cancer therapy."
+
+Photodynamic cancer therapy, also known as "radiation therapy," is commonly used to eliminate residual cancer cells after surgery. However, cancer cells with a deficiency in oxygen survive even through this treatment. PcS-MA nanostructures were found to destroy such cancer cells in rats. 
+
+Professor Nam Ki-taek, one of the leaders of the research team, said that the nanostructures would need further experimenting to reaffirm their anticancer effect and test whether they are applicable to other types of cancer as well.
+
+The results of this research can be found on ACS Nano, published online on Dec. 12. 
